@@ -1,2 +1,2 @@
 # Else-ve-If
-"#korktunmu ile" else ve if
+node.js'de "#korktunmu" ile else ve if
